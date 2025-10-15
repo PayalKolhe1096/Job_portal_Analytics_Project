@@ -5,8 +5,15 @@
 This project focuses on analyzing job market data and generating visual insights through Python and Tableau. It includes cleaned datasets, exploratory analysis, and dashboard screenshots for better interpretation of hiring trends.
 
 
+## 📁 Datasets
 
-\### 📁 Project Files
+The data files used in this project are available here:
+\###
+📊  [Job Description Dataset (Kaggle)](https://kaggle.com/datasets/ravindrasinghrana/job-description-dataset?select=job_descriptions.csv)  
+
+
+
+ 📁 Project Files
 
 
 

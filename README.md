@@ -18,6 +18,18 @@ The Job Analytics Portal is a Tableau-based project designed to analyze and visu
 
    -Portal-specific job activity insights
 
+📊 Dataset
+The dataset used for this project is available on Kaggle:  
+🔗 [Job Description Dataset – Kaggle](https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset)
+
+This dataset was used for all dashboards and analytics tasks, including:
+   - Salary and Experience Distribution  
+   - Work Type Comparison  
+   - Top Companies (Tree Map)  
+   - India vs Germany Comparison  
+   - Extra Dashboard from Training Phase  
+
+
 🧩 Tools Used
 
    -Tableau Public – For building dashboards

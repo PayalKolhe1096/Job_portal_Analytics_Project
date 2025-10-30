@@ -46,17 +46,24 @@ Below are the key visual dashboards (screenshots) included in this project folde
 
 📁 Repository Structure
 Job_Analytics_Portal/
-|
-|-- Dashboard_Screenshots/
-|   |-- KPI_Summary.png
-|   |-- Salary_BoxPlot.png
-|   |-- WorkType_PieChart.png
-|   |-- Top10Companies_TreeMap.png
-|   |-- India_vs_Germany_StackedBar.png
-|   |-- Experience_vs_Salary_Trend.png
-|
-|-- README.md
-|-- Dataset.xlsx
+
+📂 Dashboard_Screenshots/
+
+   -🖼️ KPI_Summary.png
+
+   -🖼️ Salary_BoxPlot.png
+
+   -🖼️ WorkType_PieChart.png
+
+   -🖼️ Top10Companies_TreeMap.png
+
+   -🖼️ India_vs_Germany_StackedBar.png
+
+   -🖼️ Experience_vs_Salary_Trend.png
+
+-📄 README.md
+
+-📊 Dataset.xlsx
 
 
 

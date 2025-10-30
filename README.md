@@ -44,6 +44,7 @@ Sections included:
    -Experience, qualification, and gender preference insights
 
 📸 Screenshot:
+   -Extra Dashboard.png
 
 
 🚀 Phase 2: Internship Enhancements
@@ -86,6 +87,8 @@ Job_Analytics_Portal/
    -🖼️ India_vs_Germany_StackedBar.png
 
    -🖼️ Experience_vs_Salary_Trend.png
+
+   -🖼️ Extra Dashboard.png
 
 -📄 README.md
 

@@ -121,6 +121,13 @@ You can view all interactive dashboards here:
 
 -India had no eligible postings under strict filters, while Germany showed notable presence in Art Teacher and Aerospace Engineer roles.
 
+🧾 Internship Report
+
+The complete internship report for this project is included in the repository.  
+You can view or download it here:
+👉https://github.com/PayalKolhe1096/Job_portal_Analytics_Project/blob/main/Payal_Kolhe_Internship_Report_Nullclass.pdf
+ 
+
 👩‍💻 Developed By
 
 Payal Kolhe

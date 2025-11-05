@@ -4,6 +4,11 @@
 
 The Job Analytics Portal is a Tableau-based project designed to analyze and visualize job market data across roles, experience levels, and countries. The project evolved in two phases — initial training dashboards and enhanced internship dashboards — both created on the same dataset to build a complete analytics portal.
 
+🧠 Summary
+
+This project analyzes job listing data to identify hiring trends, in-demand skills, and job availability across industries and locations.
+It uses Python for data processing and Tableau for visualization, turning raw people-based data into clear, actionable job market insights.
+
 🎯 Objective
 
    -To analyze and visualize job postings data to uncover:
